@@ -7,8 +7,14 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://gist.github.com/a114a49335f7c522438fd0dd5ea07588.git:ModifiedAnimatronics.groovy": [
+      "https://gist.github.com/a114a49335f7c522438fd0dd5ea07588.git",
+      "ModifiedAnimatronics.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
+    "firstVersion": "0.20.5",
     "skinBranch": "0.20.5",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git"
   }
